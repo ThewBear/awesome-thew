@@ -11,3 +11,7 @@ Special resources during COVID-19
 [Coursera Together](https://www.classcentral.com/report/coursera-free-certificate-covid-19/) 
 
 Springer [1](https://www.r-bloggers.com/free-springer-books-during-covid19/) [2](https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)
+
+[Cloud Engineering with Google Cloud](https://www.coursera.org/promo/CloudEngineer) specialization on Coursera
+
+[Data Engineering with Google Cloud](https://www.coursera.org/promo/DataEngineer) specialization on Coursera
