@@ -6,4 +6,4 @@ Inspired by [Learn In Public](https://www.swyx.io/writing/learn-in-public/), [sp
 
 [Web](Web.md)
 
-[Free courses](free-courses.md) - Other free courses
+[Courses](courses.md) - Other mostly free courses
