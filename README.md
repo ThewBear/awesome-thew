@@ -4,6 +4,10 @@ Inspired by [Learn In Public](https://www.swyx.io/writing/learn-in-public/), [sp
 
 ## Topics
 
-[Web](Web.md)
+[Web](web.md)
 
-[Courses](courses.md) - Other mostly free courses
+[AI](ai.md)
+
+[Others](others.md) - Other mostly free resources
+
+[COVID-19](covid-19.md) - Special resources during COVID-19
