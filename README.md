@@ -4,6 +4,8 @@ Inspired by [Learn In Public](https://www.swyx.io/writing/learn-in-public/), [sp
 
 ## Topics
 
+[Programming](programming.md) Programming concepts and languages
+
 [Web](web.md)
 
 [AI](ai.md)
