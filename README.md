@@ -12,4 +12,6 @@ Inspired by [Learn In Public](https://www.swyx.io/writing/learn-in-public/), [sp
 
 [Others](others.md) - Other mostly free resources
 
+### Promotions
+
 [COVID-19](covid-19.md) - Special resources during COVID-19
