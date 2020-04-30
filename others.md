@@ -7,3 +7,7 @@
 [Analytics Academy](https://analytics.google.com/analytics/academy/) - Google analytics
 
 [Skill Shop](https://skillshop.withgoogle.com/) - Google product certifications
+
+## Facebook
+
+[Digital marketing skills](https://www.facebook.com/business/learn)
