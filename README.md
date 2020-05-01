@@ -10,6 +10,8 @@ Inspired by [Learn In Public](https://www.swyx.io/writing/learn-in-public/), [sp
 
 [AI](ai.md)
 
+[Directory](directory.md) Resource & Tool directories
+
 [Others](others.md) - Other mostly free resources
 
 ### Promotions
