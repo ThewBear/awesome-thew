@@ -2,6 +2,14 @@
 
 Resource & Tool directories
 
+## Mine
+
+- [Automation tools](./automation.md)
+
+- [Utilities](./utilities.md)
+
+## Design
+
 - [spark-joy](https://github.com/sw-yx/spark-joy) easy ways to add design flair, user delight, and whimsy to your product.
 
 - [UnDeck](https://undeck.co/) Beautiful, free resources from the world's kindest creatives for your next presentation.
@@ -20,7 +28,9 @@ Resource & Tool directories
 
 - [Startup Resources](https://startupresources.io/) Curated lists of the best startup tools
 
-- [SaaS Blocks](https://saasblocks.io/)
+- [SaaS Blocks](https://saasblocks.io/) +160 building blocks to take your SaaS application to the next level
+
+- [SaaS Inspire](https://saasinspire.com/) Find inspiration for your next saas project
 
 ## No-code
 
