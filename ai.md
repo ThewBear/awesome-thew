@@ -1,7 +1,23 @@
 # AI
 
+[Papers With Code](https://paperswithcode.com/) The latest in machine learning
+
+[Made With ML](https://madewithml.com/) Share what you've Made With ML
+
+[Distill](https://distill.pub/) Machine Learning Research Should Be Clear, Dynamic and Vivid. Distill Is Here to Help.
+
 ## Google
 
 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) with TensorFlow APIs
 
 [Learn with Google AI](https://ai.google/education/)
+
+## Visulize
+
+[convolutional network visualization](https://www.cs.ryerson.ca/~aharley/vis/) An Interactive Node-Link Visualization of Convolutional Neural Networks
+
+[CNN Explainer](https://github.com/poloclub/cnn-explainer) An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs)
+
+[Embedding Projector](https://projector.tensorflow.org/) visualization of high-dimensional data
+
+[What-If Tool](https://github.com/PAIR-code/what-if-tool) an easy-to-use interface for expanding understanding of a black-box classification or regression ML model
