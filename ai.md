@@ -6,13 +6,19 @@
 
 [Distill](https://distill.pub/) Machine Learning Research Should Be Clear, Dynamic and Vivid. Distill Is Here to Help.
 
+[explained.ai](https://explained.ai/) Deep explanations of machine learning and related topics.
+
 ## Google
 
 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) with TensorFlow APIs
 
 [Learn with Google AI](https://ai.google/education/)
 
-## Visulize
+[Google Cloud AI Developer Relations](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer) Books, Presentations, Workshops, Notebook Labs, and Model Zoo for Software Engineers and Data Scientists wanting to learn the TF.Keras Machine Learning framework
+
+[training-data-analyst](https://github.com/GoogleCloudPlatform/training-data-analyst) Labs and demos for courses for GCP Training
+
+## Visualize
 
 [convolutional network visualization](https://www.cs.ryerson.ca/~aharley/vis/) An Interactive Node-Link Visualization of Convolutional Neural Networks
 
