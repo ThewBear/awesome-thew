@@ -16,6 +16,8 @@ Resource & Tool directories
 
 ## SaaS
 
+- [Free for developers](https://free-for.dev/) This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+
 - [G2](https://www.g2.com/) Get the right software & services for your business
 
 - [TrustRadius](https://www.trustradius.com/) Software Reviews You Can Trust
