@@ -21,3 +21,5 @@
 ## CSS
 
 [CSS Grid](https://cssgrid.io/) Learn css grid with Wes Bos in 25 pretty good videos
+
+[Modern CSS Solutions](https://moderncss.dev/) Modern CSS Solutions for Old CSS Problems
