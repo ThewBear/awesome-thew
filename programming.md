@@ -2,6 +2,8 @@
 
 Programming concepts and languages
 
+[freeCodeCamp](https://www.freecodecamp.org/) Learn to code. Build projects. Earn certifications.
+
 [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer.
 
 ## Python
