@@ -8,6 +8,8 @@
 
 [explained.ai](https://explained.ai/) Deep explanations of machine learning and related topics.
 
+[Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
+
 ## Google
 
 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) with TensorFlow APIs
