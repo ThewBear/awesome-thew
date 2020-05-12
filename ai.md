@@ -10,6 +10,8 @@
 
 [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 
+[Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) A curated list of applied machine learning and data science notebooks and libraries across different industries.
+
 ## Google
 
 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) with TensorFlow APIs
