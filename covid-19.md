@@ -23,3 +23,5 @@ Special resources during COVID-19
 - [Data Engineering with Google Cloud](https://www.coursera.org/promo/DataEngineer) specialization on Coursera (30 April 2020)
 
 - [Free courses to build cloud tech skills](https://www.coursera.org/promo/cloud-technology-free-courses) on Coursera (31 July 2020)
+
+- [Advanced Distributed Systems Design](https://particular.net/adsd) [Free for a limited time](https://learn.particular.net/courses/adsd-online-free) by Udi Dahan
