@@ -14,6 +14,8 @@ Resource & Tool directories
 
 - [UnDeck](https://undeck.co/) Beautiful, free resources from the world's kindest creatives for your next presentation.
 
+- [50+ free tools and resources to create awesome user interfaces](https://dev.to/davidepacilio/50-free-tools-and-resources-to-create-awesome-user-interfaces-1c1b) dev.to post by Davide Pacilio
+
 ## SaaS
 
 - [Free for developers](https://free-for.dev/) This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
