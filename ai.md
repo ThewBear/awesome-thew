@@ -12,6 +12,12 @@
 
 [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) A curated list of applied machine learning and data science notebooks and libraries across different industries.
 
+## Books
+
+[Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml2) Aurélien Geron
+
+[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) François Chollet
+
 ## Google
 
 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) with TensorFlow APIs
