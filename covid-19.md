@@ -25,3 +25,5 @@ Special resources during COVID-19
 - [Free courses to build cloud tech skills](https://www.coursera.org/promo/cloud-technology-free-courses) on Coursera (31 July 2020)
 
 - [Advanced Distributed Systems Design](https://particular.net/adsd) [Free for a limited time](https://learn.particular.net/courses/adsd-online-free) by Udi Dahan
+
+- [COVID-19 Contact Tracing](https://www.coursera.org/learn/covid-19-contact-tracing) on Coursera (31 Dec 2020)
