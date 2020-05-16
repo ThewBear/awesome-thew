@@ -14,6 +14,10 @@
 
 ## Books
 
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) Michael Nielsen
+
+[Deep Learning](http://www.deeplearningbook.org/) Ian Goodfellow and Yoshua Bengio and Aaron Courville
+
 [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml2) Aurélien Geron
 
 [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) François Chollet
