@@ -16,6 +16,8 @@ Resource & Tool directories
 
 - [50+ free tools and resources to create awesome user interfaces](https://dev.to/davidepacilio/50-free-tools-and-resources-to-create-awesome-user-interfaces-1c1b) dev.to post by Davide Pacilio
 
+- [Colors and Fonts](https://www.colorsandfonts.com/) Color & typography tools for web developers and digital designers.
+
 ## SaaS
 
 - [G2](https://www.g2.com/) Get the right software & services for your business
