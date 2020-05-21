@@ -24,7 +24,7 @@ Resource & Tool directories
 
 - [TrustRadius](https://www.trustradius.com/) Software Reviews You Can Trust
 
-- [Product Hunt]() best new products, every day
+- [Product Hunt](https://www.producthunt.com/) best new products, every day
 
   [YourStack](https://yourstack.com/) sharing your favorite products
 
