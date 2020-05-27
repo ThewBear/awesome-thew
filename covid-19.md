@@ -8,7 +8,7 @@ Special resources during COVID-19
 
   Google Cloud learning resources - extensive catalog of training courses, hands-on labs on Qwiklabs, and interactive webinars at no cost for 30 days
 
-- [Packt free workshop](https://courses.packtpub.com/pages/free) (31 May 2020)
+- [Packt free workshop](https://courses.packtpub.com/pages/free) (31 July 2020)
 
 - [Tableau eLearning](https://www.tableau.com/learn/training/elearning)
 
