@@ -12,6 +12,8 @@
 
 [Tools for front-end dev](https://dev.to/pustelto/tools-i-use-for-front-end-dev-3ekn) - pustelto's post on dev.to
 
+[Best GitHub Repos for Web Developers](https://dev.to/sayanide/best-github-repos-for-web-developers-9id) - sayanide's post on dev.to
+
 ## React
 
 [Overreacted](https://overreacted.io/) A blog by Dan Abramov
