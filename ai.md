@@ -12,6 +12,10 @@
 
 [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) A curated list of applied machine learning and data science notebooks and libraries across different industries.
 
+## Learning
+
+[How I'm learning Machine Learning (without being a math genius)](https://dev.to/diegoisco/how-i-m-learning-machine-learning-without-being-a-math-genius-1g4c) diegoisco's post on dev.to
+
 ## Books
 
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) Michael Nielsen
