@@ -33,3 +33,5 @@ Special resources during COVID-19
 - [Advanced Distributed Systems Design](https://particular.net/adsd) [Free for a limited time](https://learn.particular.net/courses/adsd-online-free) by Udi Dahan
 
 - [COVID-19 Contact Tracing](https://www.coursera.org/learn/covid-19-contact-tracing) on Coursera (31 Dec 2020)
+
+- [Open Access to ACM Digital Library During Coronavirus Pandemic](https://www.acm.org/articles/bulletins/2020/march/dl-access-during-covid-19) (30 June 2020)
