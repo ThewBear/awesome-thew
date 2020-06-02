@@ -4,6 +4,8 @@ Special resources during COVID-19
 
 ## Free
 
+- [Free Online Learning Due to Coronavirus (Updated Continuously)](https://www.classcentral.com/report/free-online-learning-coronavirus/) by Class Central
+
 - [Google Cloud training](https://cloud.google.com/blog/topics/training-certifications/expanding-at-home-learning) (30 April 2020)
 
   Google Cloud learning resources - extensive catalog of training courses, hands-on labs on Qwiklabs, and interactive webinars at no cost for 30 days
@@ -15,6 +17,10 @@ Special resources during COVID-19
   Use access code `2020elearning`
 
 - [Coursera Together](https://www.classcentral.com/report/coursera-free-certificate-covid-19/) (31 July 2020)
+
+- [University and college students, learn for free with Coursera](https://blog.coursera.org/helping-college-and-university-students-regain-control-of-their-learning-amid-the-pandemic-with-free-access-to-coursera/) (31 July 2020)
+
+- [Free courses for college students](https://www.coursera.org/promo/free-courses-college-students) by Coursera (31 July 2020)
 
 - Springer [1](https://www.r-bloggers.com/free-springer-books-during-covid19/) [2](https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960) (31 July 2020)
 
