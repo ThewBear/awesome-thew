@@ -12,6 +12,8 @@
 
 [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) A curated list of applied machine learning and data science notebooks and libraries across different industries.
 
+[The Super Duper NLP Repo](https://notebooks.quantumstat.com/) updated 06.02.20 ✌️ 181 notebooks
+
 ## Learning
 
 [How I'm learning Machine Learning (without being a math genius)](https://dev.to/diegoisco/how-i-m-learning-machine-learning-without-being-a-math-genius-1g4c) diegoisco's post on dev.to
