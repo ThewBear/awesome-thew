@@ -18,6 +18,8 @@ Resource & Tool directories
 
 - [Colors and Fonts](https://www.colorsandfonts.com/) Color & typography tools for web developers and digital designers.
 
+- [40+ High Quality Free Resources for Web Development](https://dev.to/jfelx/40-high-quality-free-resources-for-web-development-10o3) jfelx's post on dev.to
+
 ## SaaS
 
 - [G2](https://www.g2.com/) Get the right software & services for your business
