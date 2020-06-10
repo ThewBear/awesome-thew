@@ -14,6 +14,8 @@
 
 [The Super Duper NLP Repo](https://notebooks.quantumstat.com/) updated 06.02.20 ✌️ 181 notebooks
 
+[Connected Papers](https://www.connectedpapers.com/) Explore connected papers in a visual graph
+
 ## Learning
 
 [How I'm learning Machine Learning (without being a math genius)](https://dev.to/diegoisco/how-i-m-learning-machine-learning-without-being-a-math-genius-1g4c) diegoisco's post on dev.to
