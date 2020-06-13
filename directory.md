@@ -20,6 +20,8 @@ Resource & Tool directories
 
 - [40+ High Quality Free Resources for Web Development](https://dev.to/jfelx/40-high-quality-free-resources-for-web-development-10o3) jfelx's post on dev.to
 
+- [No Design Development](https://nodesign.dev/) A collection of tools for developers who have little to no artistic talent.
+
 ## SaaS
 
 - [G2](https://www.g2.com/) Get the right software & services for your business
