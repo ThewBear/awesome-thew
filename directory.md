@@ -40,6 +40,8 @@ Resource & Tool directories
 
 - [SaaS Inspire](https://saasinspire.com/) Find inspiration for your next saas project
 
+- [Awesome Visibility](https://github.com/dehenne/awesome-visibility) Curated list to achieve visibility for your product
+
 ## No-code
 
 - [Makerpad](https://www.makerpad.co/tools)
