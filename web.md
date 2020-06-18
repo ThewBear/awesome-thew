@@ -14,6 +14,8 @@
 
 [Best GitHub Repos for Web Developers](https://dev.to/sayanide/best-github-repos-for-web-developers-9id) - sayanide's post on dev.to
 
+[Frontend Developer Resources](https://dev.to/nickytonline/share-some-frontend-resources-15j5) - Nick Taylor's post on dev.to
+
 ## React
 
 [Overreacted](https://overreacted.io/) A blog by Dan Abramov
