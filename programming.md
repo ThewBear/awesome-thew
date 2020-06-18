@@ -6,6 +6,8 @@ Programming concepts and languages
 
 [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer.
 
+[SaaS4Devs](https://github.com/nicolas-racchi/SaaS4Devs) This document is a collection of useful \*\*resources, advice & more\*\* about the Software as a Service business, especially tailored towards developers.
+
 ## Python
 
 [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) by Microsoft
