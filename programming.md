@@ -8,6 +8,8 @@ Programming concepts and languages
 
 [SaaS4Devs](https://github.com/nicolas-racchi/SaaS4Devs) This document is a collection of useful \*\*resources, advice & more\*\* about the Software as a Service business, especially tailored towards developers.
 
+[My Favorite CLI Tools](https://dev.to/switowski/my-favorite-cli-tools-4p4g) Sebastian Witowski's post on dev.to
+
 ## Python
 
 [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) by Microsoft
