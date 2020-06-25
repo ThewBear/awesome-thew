@@ -27,3 +27,5 @@
 [CSS Grid](https://cssgrid.io/) Learn css grid with Wes Bos in 25 pretty good videos
 
 [Modern CSS Solutions](https://moderncss.dev/) Modern CSS Solutions for Old CSS Problems
+
+[A list of CSS resources for beginners](https://dev.to/devindford/a-list-of-css-resources-for-beginners-2ff5) Devin Ford's post on dev.to
