@@ -8,6 +8,8 @@
 
 [Frontend Mentor](https://www.frontendmentor.io/) Improve your front-end coding skills by building real projects
 
+[A List of Useful Resources for Front End Developers](https://github.com/RitikPatni/Front-End-Web-Development-Resources) by RitikPatni on GitHub
+
 ## Tools
 
 [Tools for front-end dev](https://dev.to/pustelto/tools-i-use-for-front-end-dev-3ekn) - pustelto's post on dev.to
