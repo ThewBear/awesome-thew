@@ -22,6 +22,12 @@ Resource & Tool directories
 
 - [No Design Development](https://nodesign.dev/) A collection of tools for developers who have little to no artistic talent.
 
+### Landing Page
+
+- [Landingfolio](https://www.landingfolio.com/) The Best Landing Page Design Inspiration, Templates, Resources and More
+
+- [SaaS Pages](https://saaspages.xyz/) A collection of the best landing pages with a focus on copywriting and design.
+
 ## SaaS
 
 - [G2](https://www.g2.com/) Get the right software & services for your business
