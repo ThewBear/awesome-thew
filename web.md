@@ -18,6 +18,8 @@
 
 [Frontend Developer Resources](https://dev.to/nickytonline/share-some-frontend-resources-15j5) - Nick Taylor's post on dev.to
 
+[10 websites to help you with your CSS problems ☺](https://dev.to/amanajayvarma/10-website-to-help-you-with-your-css-problems-2poi) - Aman Varma's post on dev.to
+
 ## React
 
 [Overreacted](https://overreacted.io/) A blog by Dan Abramov
