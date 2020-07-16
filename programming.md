@@ -10,6 +10,10 @@ Programming concepts and languages
 
 [My Favorite CLI Tools](https://dev.to/switowski/my-favorite-cli-tools-4p4g) Sebastian Witowski's post on dev.to
 
+## Books
+
+[6 Things Every Software Engineer Should Know to Standout](https://dev.to/jrdev_/6-things-every-software-engineer-should-know-to-standout-52k1) Jr. Dev's post on dev.to
+
 ## Python
 
 [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) by Microsoft
