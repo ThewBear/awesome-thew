@@ -14,7 +14,7 @@ Resource & Tool directories
 
 - [UnDeck](https://undeck.co/) Beautiful, free resources from the world's kindest creatives for your next presentation.
 
-- [50+ free tools and resources to create awesome user interfaces](https://dev.to/davidepacilio/50-free-tools-and-resources-to-create-awesome-user-interfaces-1c1b) dev.to post by Davide Pacilio
+- 50+ free tools and resources to create awesome user interfaces [Part 1](https://dev.to/davidepacilio/50-free-tools-and-resources-to-create-awesome-user-interfaces-1c1b) [Part 2](https://dev.to/cruip/50-free-tools-and-resources-to-create-awesome-user-interfaces-part-2-2l02) Davide Pacilio's post on dev.to
 
 - [Colors and Fonts](https://www.colorsandfonts.com/) Color & typography tools for web developers and digital designers.
 
