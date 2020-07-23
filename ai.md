@@ -18,6 +18,8 @@
 
 [FREE AI RESOURCES](https://github.com/mrsaeeddev/free-ai-resources)
 
+[Awesome GPT-3](https://github.com/elyase/awesome-gpt3) Awesome GPT-3 is a collection of demos and articles about the [OpenAI GPT-3 API](https://openai.com/blog/openai-api/).
+
 ## Learning
 
 [How I'm learning Machine Learning (without being a math genius)](https://dev.to/diegoisco/how-i-m-learning-machine-learning-without-being-a-math-genius-1g4c) diegoisco's post on dev.to
