@@ -20,6 +20,8 @@
 
 [10 websites to help you with your CSS problems ☺](https://dev.to/amanajayvarma/10-website-to-help-you-with-your-css-problems-2poi) - Aman Varma's post on dev.to
 
+[10 sites or apps that can make your frontend development to pro* level](https://dev.to/karthick3018/10-sites-or-apps-that-can-make-your-frontend-development-to-pro-level-459p) - KaRthick's post on dev.to
+
 ## React
 
 [Overreacted](https://overreacted.io/) A blog by Dan Abramov
