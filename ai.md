@@ -34,6 +34,8 @@
 
 [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) François Chollet
 
+[Experts recommend Machine Learning books](https://www.reddit.com/r/MachineLearning/comments/i0l5m9/p_ive_asked_a_dozen_researchers_about_their/) by MentorCruise
+
 ## Google
 
 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) with TensorFlow APIs
