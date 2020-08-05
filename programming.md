@@ -25,3 +25,7 @@ Programming concepts and languages
 [Free for developers](https://free-for.dev/) This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
 [These free tools for developers are 🔥🔥🔥](https://dev.to/fayazara/this-free-tools-for-developers-are-45p3) - fayazara's post on dev.to
+
+## Miscellaneous
+
+[gitmoji](https://gitmoji.carloscuesta.me/) An emoji guide for your commit messages
