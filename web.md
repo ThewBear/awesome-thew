@@ -24,6 +24,8 @@
 
 [Some Lesser Known But Awesome Online Tools For Web Development](https://dev.to/soumyadey/some-lesser-known-but-awesome-online-tools-for-web-development-10fa) - soumyadey's post on dev.to
 
+[Awesome Design Resources for Every Developers Series' Articles](https://dev.to/theme_selection/series/8895) - themeselection's series on dev.to
+
 ## React
 
 [Overreacted](https://overreacted.io/) A blog by Dan Abramov
