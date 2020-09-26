@@ -22,6 +22,8 @@
 
 [10 sites or apps that can make your frontend development to pro* level](https://dev.to/karthick3018/10-sites-or-apps-that-can-make-your-frontend-development-to-pro-level-459p) - KaRthick's post on dev.to
 
+[Some Lesser Known But Awesome Online Tools For Web Development](https://dev.to/soumyadey/some-lesser-known-but-awesome-online-tools-for-web-development-10fa) - soumyadey's post on dev.to
+
 ## React
 
 [Overreacted](https://overreacted.io/) A blog by Dan Abramov
