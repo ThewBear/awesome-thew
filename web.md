@@ -10,6 +10,8 @@
 
 [A List of Useful Resources for Front End Developers](https://github.com/RitikPatni/Front-End-Web-Development-Resources) by RitikPatni on GitHub
 
+[Full Stack Developer's Roadmap 🗺](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12) ender_minyard's post on dev.to
+
 ## Tools
 
 [Tools for front-end dev](https://dev.to/pustelto/tools-i-use-for-front-end-dev-3ekn) - pustelto's post on dev.to
