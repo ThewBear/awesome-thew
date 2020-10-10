@@ -12,6 +12,8 @@
 
 [Full Stack Developer's Roadmap 🗺](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12) ender_minyard's post on dev.to
 
+[30+ Github Repos for JavaScript Developers](https://dev.to/tuckertriggs/30-github-repos-for-javascript-developers-1350) tuckertriggs's post on dev.to
+
 ## Tools
 
 [Tools for front-end dev](https://dev.to/pustelto/tools-i-use-for-front-end-dev-3ekn) - pustelto's post on dev.to
