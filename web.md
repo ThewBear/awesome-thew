@@ -14,6 +14,8 @@
 
 [30+ Github Repos for JavaScript Developers](https://dev.to/tuckertriggs/30-github-repos-for-javascript-developers-1350) tuckertriggs's post on dev.to
 
+[How to Become a Pro 😎 Front End Developer💻](https://dev.to/theme_selection/how-to-become-a-pro-front-end-developer-5gbo) - themeselection's series on dev.to
+
 ## Tools
 
 [Tools for front-end dev](https://dev.to/pustelto/tools-i-use-for-front-end-dev-3ekn) - pustelto's post on dev.to
