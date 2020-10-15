@@ -20,6 +20,8 @@
 
 [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) Awesome GPT-3 is a collection of demos and articles about the [OpenAI GPT-3 API](https://openai.com/blog/openai-api/).
 
+[Youtube channels that review/implement popular ML and DL papers](https://www.reddit.com/r/MachineLearning/comments/jaxr3z/d_looking_for_youtube_channels_that_review_or/)
+
 ## Learning
 
 [How I'm learning Machine Learning (without being a math genius)](https://dev.to/diegoisco/how-i-m-learning-machine-learning-without-being-a-math-genius-1g4c) diegoisco's post on dev.to
