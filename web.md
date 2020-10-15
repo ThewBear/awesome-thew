@@ -32,6 +32,8 @@
 
 [Awesome Design Resources for Every Developers Series' Articles](https://dev.to/theme_selection/series/8895) - themeselection's series on dev.to
 
+[Best FREE Compilation of Graphic Design, Web dev, UI/UX Resources.](https://dev.to/exwhyzed0/best-free-compilation-of-graphic-design-web-dev-ui-ux-resources-471c) - exwhyzed0's post on dev.to
+
 ## React
 
 [Overreacted](https://overreacted.io/) A blog by Dan Abramov
