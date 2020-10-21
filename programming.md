@@ -26,6 +26,8 @@ Programming concepts and languages
 
 [These free tools for developers are 🔥🔥🔥](https://dev.to/fayazara/this-free-tools-for-developers-are-45p3) - fayazara's post on dev.to
 
+[A Collection of Cloud Security Tools](https://www.reddit.com/r/devops/comments/je4e9e/a_collection_of_cloud_security_tools) - r/devops
+
 ## Miscellaneous
 
 [gitmoji](https://gitmoji.carloscuesta.me/) An emoji guide for your commit messages
