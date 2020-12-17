@@ -22,6 +22,8 @@ Resource & Tool directories
 
 - [No Design Development](https://nodesign.dev/) A collection of tools for developers who have little to no artistic talent.
 
+- [Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations) One new high-quality, open-source illustration each day. Use our color-picker to adapt the illustrations to your brand identity!
+
 ### Landing Page
 
 - [Landingfolio](https://www.landingfolio.com/) The Best Landing Page Design Inspiration, Templates, Resources and More
