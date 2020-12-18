@@ -34,6 +34,8 @@
 
 [Best FREE Compilation of Graphic Design, Web dev, UI/UX Resources.](https://dev.to/exwhyzed0/best-free-compilation-of-graphic-design-web-dev-ui-ux-resources-471c) - exwhyzed0's post on dev.to
 
+[Ultimate Resources for Front-End Development in 2021 + Giveaway⚡](https://dev.to/rahxuls/free-ultimate-resources-for-front-end-development-in-2021-giveaway-3838) - rahxuls's post on dev.to
+
 ## React
 
 [Overreacted](https://overreacted.io/) A blog by Dan Abramov
