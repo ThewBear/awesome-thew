@@ -14,6 +14,8 @@ Programming concepts and languages
 
 ## Books
 
+[Electronic References](https://csgordon.github.io/books.html) CS textbooks in a variety of areas that are freely available online
+
 [6 Things Every Software Engineer Should Know to Standout](https://dev.to/jrdev_/6-things-every-software-engineer-should-know-to-standout-52k1) Jr. Dev's post on dev.to
 
 ## Python
