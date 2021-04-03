@@ -42,6 +42,8 @@
 
 [kcd-edu](https://github.com/topics/kcd-edu) @kentcdodds's [open source](https://twitter.com/kentcdodds/status/1256060182938791941) material for eggheadio, FrontendMasters, TestingJavaScript, and EpicReact
 
+[List of Resources to Easily Crack Your Next JavaScript/React Interview](https://dev.to/myogeshchavan97/list-of-resources-to-easily-crack-your-next-javascript-react-interview-4c7j) Yogesh Chavan's post on dev.to
+
 ## CSS
 
 [CSS Grid](https://cssgrid.io/) Learn css grid with Wes Bos in 25 pretty good videos
