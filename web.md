@@ -49,3 +49,5 @@
 [Modern CSS Solutions](https://moderncss.dev/) Modern CSS Solutions for Old CSS Problems
 
 [A list of CSS resources for beginners](https://dev.to/devindford/a-list-of-css-resources-for-beginners-2ff5) Devin Ford's post on dev.to
+
+[Another 100 underline/overlay animations | The extended CSS collection](https://dev.to/afif/another-100-underline-overlay-animations-the-extended-css-collection-574c) Temani Afif's post on dev.to
