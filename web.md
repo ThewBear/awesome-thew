@@ -16,6 +16,8 @@
 
 [How to Become a Pro 😎 Front End Developer💻](https://dev.to/theme_selection/how-to-become-a-pro-front-end-developer-5gbo) - themeselection's series on dev.to
 
+[5 JavaSript GitHub Repositories for Interview Prep!📝](https://dev.to/prnvbirajdar/5-javasript-github-repositories-for-interview-prep-306h) - prnvbirajdar's series on dev.to
+
 ## Tools
 
 [Tools for front-end dev](https://dev.to/pustelto/tools-i-use-for-front-end-dev-3ekn) - pustelto's post on dev.to
@@ -35,6 +37,8 @@
 [Best FREE Compilation of Graphic Design, Web dev, UI/UX Resources.](https://dev.to/exwhyzed0/best-free-compilation-of-graphic-design-web-dev-ui-ux-resources-471c) - exwhyzed0's post on dev.to
 
 [Ultimate Resources for Front-End Development in 2021 + Giveaway⚡](https://dev.to/rahxuls/free-ultimate-resources-for-front-end-development-in-2021-giveaway-3838) - rahxuls's post on dev.to
+
+[4 awesome javascript projects worthy of your collection](https://dev.to/lindelof/4-awesome-javascript-projects-worthy-of-your-collection-53fi) - lindelof's post on dev.to
 
 ## React
 
