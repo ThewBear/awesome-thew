@@ -40,6 +40,11 @@
 
 [4 awesome javascript projects worthy of your collection](https://dev.to/lindelof/4-awesome-javascript-projects-worthy-of-your-collection-53fi) - lindelof's post on dev.to
 
+
+[40+ Useful Resources for Mastering Web🎁](https://dev.to/surajondev/40-useful-resources-for-mastering-web-1i0h) - surajondev's post on dev.to
+
+[Design-Resources](https://github.com/MohamedYoussouf/Design-Resources) by MohamedYoussouf
+
 ## React
 
 [Overreacted](https://overreacted.io/) A blog by Dan Abramov
