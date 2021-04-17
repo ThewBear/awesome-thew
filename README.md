@@ -1,5 +1,7 @@
 # Awesome Thew
 
+**Migrating to [my website](https://www.thewdhanat.com/awesome/)**
+
 Inspired by [Learn In Public](https://www.swyx.io/writing/learn-in-public/), [spark-joy](https://github.com/sw-yx/spark-joy) and [uses](https://github.com/wesbos/awesome-uses)
 
 ## Topics
@@ -13,6 +15,8 @@ Inspired by [Learn In Public](https://www.swyx.io/writing/learn-in-public/), [sp
 [Directory](directory.md) Resource & Tool directories
 
 [Others](others.md) - Other mostly free resources
+
+[Thai](thai.md) - Thai language resources
 
 ### Promotions
 
